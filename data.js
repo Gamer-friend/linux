@@ -1,4 +1,4 @@
 DATA=TXT
 [
-  bul.loader/preferences/index.js=true
+  bul.loader/preferences/index/function/.../run.sh
   ]
